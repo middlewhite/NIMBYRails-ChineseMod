@@ -1,7 +1,19 @@
 # -------2021-08-23----------------------------------------
-# ---------15-33-21----------------------------------------
+# ---------16-09-39----------------------------------------
 # 
+
+
+# ----------------------------------------------------------
+# 轨道 Tracks
 
 msgctxt "sea_lane_loc"
 msgid "Sea Route Markers"
 msgstr "海运航线标记"
+
+msgctxt "ChinaTransfer"
+msgid "ChinaTransfer"
+msgstr "中国铁路换乘站台"
+
+msgctxt "anarchy_track_1_name"
+msgid "Track Anarchy"
+msgstr "无限制铁路"
