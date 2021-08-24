@@ -1,19 +1,79 @@
-# -------2021-08-23----------------------------------------
-# ---------16-09-39----------------------------------------
+# -------2021-08-25----------------------------------------
+# ---------15-04-01----------------------------------------
 # 
 
 
 # ----------------------------------------------------------
 # 轨道 Tracks
 
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2565497338
 msgctxt "sea_lane_loc"
 msgid "Sea Route Markers"
 msgstr "海运航线标记"
 
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2566404063
 msgctxt "ChinaTransfer"
 msgid "ChinaTransfer"
 msgstr "中国铁路换乘站台"
 
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2565320618
 msgctxt "anarchy_track_1_name"
 msgid "Track Anarchy"
 msgstr "无限制铁路"
+
+
+# ----------------------------------------------------------
+# 列车 Trains
+
+# https://steamcommunity.com/sharedfiles/filedetails/?id=2377695979
+msgctxt "sc_chnmtr_ta_car_name"
+msgid "China Metro Type A CAR"
+msgstr "A型城轨列车车厢"
+
+msgctxt "sc_chnmtr_ta_head_name"
+msgid "China Metro Type A HEAD"
+msgstr "A型城轨列车车头"
+
+msgctxt "sc_chnmtr_ta_100_car_name"
+msgid "China Metro Type A CAR"
+msgstr "A型城轨列车车厢"
+
+msgctxt "sc_chnmtr_ta_100_head_name"
+msgid "China Metro Type A HEAD"
+msgstr "A型城轨列车车头"
+
+msgctxt "sc_chnmtr_ta_name"
+msgid "Type A Metro (80Km)"
+msgstr "中国标准A型城轨列车(80Km)"
+
+msgctxt "sc_chnmtr_ta_100_name"
+msgid "Type A Metro (100Km)"
+msgstr "中国标准A型城轨列车(100Km)"
+
+
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2377268356
+msgctxt "sc_chnmtr_tb2_car_name"
+msgid "China Metro Type B CAR"
+msgstr "B型城轨列车车厢"
+
+msgctxt "sc_chnmtr_tb2_head_name"
+msgid "China Metro Type B HEAD"
+msgstr "B型城轨列车车头"
+
+msgctxt "sc_chnmtr_tb2_100_car_name"
+msgid "China Metro Type B CAR"
+msgstr "B型城轨列车车厢"
+
+msgctxt "sc_chnmtr_tb2_100_head_name"
+msgid "China Metro Type B HEAD"
+msgstr "B型城轨列车车头"
+
+msgctxt "sc_chnmtr_tb2_name"
+msgid "Type B Metro (80Km)"
+msgstr "中国标准B型城轨列车(80Km)"
+
+msgctxt "sc_chnmtr_tb2_100_name"
+msgid "Type B Metro (100Km)"
+msgstr "中国标准B型城轨列车(100Km)"
+
+

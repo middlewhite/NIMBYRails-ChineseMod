@@ -1,6 +1,7 @@
 本文档采用 Markdown 语法所写
 
 # NIMBY Rails 工坊模组汉化补丁
+*此项目仅包含模组中的铁路名/列车名汉化
 
 能够与我的[游戏本体汉化补丁](https://github.com/middlewhite/NIMBYRails-ChineseLanguage)同时使用
 
@@ -24,4 +25,4 @@
 
 ---
 
-如果您有希望汉化的模组或有其他建议欢迎在留言区留言及[GitHub 主页](https://github.com/middlewhite/NIMBYRails-ChineseMod "GitHub主页")向我反应。
+如果您有希望汉化的模组或有其他建议欢迎在留言区留言及[GitHub 主页](https://github.com/middlewhite/NIMBYRails-ChineseMod) 向我反应。
