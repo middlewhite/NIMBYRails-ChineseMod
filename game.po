@@ -77,3 +77,35 @@ msgid "Type B Metro (100Km)"
 msgstr "中国标准B型城轨列车(100Km)"
 
 
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2381815388
+msgctxt "CRH380A_ZET"
+msgid "CRH380A_ZET "
+msgstr "CRH380A列车 特等座车"
+
+msgctxt "CRH380A_ZE"
+msgid "CRH380A_ZE"
+msgstr "CRH380A列车 二等座车"
+
+msgctxt "CRH380A_ZYT"
+msgid "CRH380A_ZYT"
+msgstr "CRH380A列车 特等座车"
+
+msgctxt "CRH380A_ZY"
+msgid "CRH380A_ZY"
+msgstr "CRH380A列车 一等座车"
+
+msgctxt "CRH380A_ZEC"
+msgid "CRH380A_ZEC"
+msgstr "CRH380A列车 餐车"
+
+msgctxt "CRH380A_Reconnection"
+msgid "CRH380A_Reconnection"
+msgstr "CRH380A列车 重连"
+
+msgctxt "CRH380A_name"
+msgid "CRH380A"
+msgstr "中国CRH380A列车"
+
+
+
+
