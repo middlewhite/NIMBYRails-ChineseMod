@@ -1,5 +1,5 @@
-# -------2021-08-24----------------------------------------
-# ---------15-04-01----------------------------------------
+# -------2021-09-04----------------------------------------
+# ---------01-08-52----------------------------------------
 # 
 
 
@@ -11,15 +11,59 @@ msgctxt "sea_lane_loc"
 msgid "Sea Route Markers"
 msgstr "海运航线标记"
 
+
 #https://steamcommunity.com/sharedfiles/filedetails/?id=2566404063
 msgctxt "ChinaTransfer"
 msgid "ChinaTransfer"
 msgstr "中国铁路换乘站台"
 
+
 #https://steamcommunity.com/sharedfiles/filedetails/?id=2565320618
 msgctxt "anarchy_track_1_name"
 msgid "Track Anarchy"
 msgstr "无限制铁路"
+
+
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2592434100
+msgctxt "China_Branches_45_name"
+msgid "China Branches 45"
+msgstr "中国铁路道岔 45公里/小时"
+
+msgctxt "China_Branches_80_name"
+msgid "China Branches 80"
+msgstr "中国铁路道岔 80公里/小时"
+
+msgctxt "China_Branches_wide_name"
+msgid "China Branches wide"
+msgstr "中国铁路道岔"
+
+
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2592468114
+msgctxt "China_Ballast_160_name"
+msgid "China Ballast 160"
+msgstr "中国普速有砟轨道 160公里/小时"
+
+msgctxt "China_Ballast_120_name"
+msgid "China Ballast 120"
+msgstr "中国普速有砟轨道 120公里/小时"
+
+msgctxt "China_Ballast_80_name"
+msgid "China Ballast 80"
+msgstr "中国普速有砟轨道 80公里/小时"
+
+
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2592459548
+msgctxt "China_High-Speed_Ballast_350_name"
+msgid "China High-Speed Ballast 350"
+msgstr "中国高速有砟轨道 350千米/小时"
+
+msgctxt "China_High-Speed_Ballast_310_name"
+msgid "China High-Speed Ballast 310"
+msgstr "中国高速有砟轨道 310千米/小时"
+
+msgctxt "China_High-Speed_Ballast_250_name"
+msgid "China High-Speed Ballast 250"
+msgstr "中国高速有砟轨道 250千米/小时"
 
 
 # ----------------------------------------------------------
@@ -105,6 +149,25 @@ msgstr "CRH380A列车 重连"
 msgctxt "CRH380A_name"
 msgid "CRH380A"
 msgstr "中国CRH380A列车"
+
+
+#https://steamcommunity.com/sharedfiles/filedetails/?id=2380807858
+msgctxt "CRH1B ZE-Mc"
+msgid "CRH1B ZE-Mc"
+msgstr "CRH1B动车 二等座车"
+
+msgctxt "CRH1B ZE-Tp"
+msgid "CRH1B ZE-Tp"
+msgstr "CRH1B动车 二等座车"
+
+msgctxt "CRH1B ZY-M"
+msgid "CRH1B ZY-M"
+msgstr "CRH1B动车 一等座车"
+
+msgctxt "CRH1B_name"
+msgid "CRH1B"
+msgstr "中国CRH1B电力动车组"
+
 
 
 

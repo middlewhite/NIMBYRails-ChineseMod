@@ -2,7 +2,7 @@
 schema=1
 name=SChinese-mods
 author=middlewhite
-version=0.0.5
+version=0.0.6
 
 [Language]
 code_iso_639_2=zho
